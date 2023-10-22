@@ -159,6 +159,7 @@ alacritty
 kalk
 rhythmbox
 swaykbdd
+rofi
 
 #apps
 nemo
@@ -181,6 +182,7 @@ calamares
 calamares-parch
 os-prober
 paru
+parch-welcome
 parch-grub
 parch-emoji-ios
 parch-branding
