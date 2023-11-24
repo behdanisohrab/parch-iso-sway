@@ -176,6 +176,9 @@ neofetch-git
 ttf-dejavu
 firefox
 sddm
+qt6-wayland
+qt5-wayland
+xorg-xwayland
 
 #parchlinuxstuff
 calamares
