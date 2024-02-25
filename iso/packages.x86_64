@@ -163,7 +163,7 @@ rofi
 
 #apps
 nemo
-fileroller-nemo
+nemo-fileroller
 unrar
 unzip
 xed
