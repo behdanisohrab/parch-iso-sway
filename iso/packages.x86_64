@@ -163,7 +163,7 @@ rofi
 
 #apps
 nemo
-engrampa
+fileroller-nemo
 unrar
 unzip
 xed
@@ -173,7 +173,7 @@ btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-ttf-dejavu
+vazirmatn-fonts
 firefox
 sddm
 qt6-wayland
